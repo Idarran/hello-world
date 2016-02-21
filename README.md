@@ -1,2 +1,6 @@
 # hello-world
-Repozytorium ćwiczebne
+
+No elo!
+
+Lubie placki.
+
